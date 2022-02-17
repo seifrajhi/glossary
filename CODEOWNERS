@@ -79,4 +79,15 @@
 /i18n/zh-tw.toml @pichuang @ydFu @hwchiu @johnlinp
 
 
+<<<<<<< HEAD
 
+=======
+# Owners of Arabic contents
+/content/ar/ @TarekMSayed @same7ammar @AShabana @hacktron95
+
+# Owners of Bengali contents
+/content/bn/ @mitul3737 @Mouly22 @ikramulkayes
+
+# Owners of Spanish contents
+/content/es/ @CathPag @raelga @electrocucaracha
+>>>>>>> cd76bb6 (Update CODEOWNDERS for dev-ar)

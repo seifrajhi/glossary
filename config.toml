@@ -164,6 +164,7 @@ title = "クラウドネイティブ用語集"
 weight = 13
 [languages.ja.params]
 description = "CNCF クラウドネイティブ用語集プロジェクトは、クラウドネイティブアプリケーションについて話すときに使われる一般的な用語のリファレンスとして使用することを目的としています。"
+
 [languages.ar]
 title = "مصطلحات التطبيقات السحابية الأصيلة"
 description = "يهدف مشروع معجم التطبيقات السحابية الأصيلة تحت رعاية مؤسسة الحوسبة السحابية الأصيلة إلى استخدامه كمرجع للمصطلحات الشائعة المستخدمة عند الحديث عن التطبيقات السحابية الأصيلة."
@@ -172,7 +173,6 @@ contentDir = "content/ar"
 weight = 3
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
->>>>>>> c06cda1 (Settings and initial contents for Arabic localization (#428))
 
 [markup]
 [markup.goldmark]
